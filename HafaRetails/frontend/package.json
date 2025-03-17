@@ -1,0 +1,16 @@
+{
+    "name": "hafaretails-frontend",
+    "version": "1.0.0",
+    "description": "Frontend for HafaRetails",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build"
+    },
+    "dependencies": {
+      "react": "^18.0.0",
+      "react-dom": "^18.0.0",
+      "axios": "^0.21.1"
+    }
+  }
+  
