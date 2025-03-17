@@ -1,0 +1,12 @@
+
+---
+
+## **Step 9: Pushing Everything to GitHub**
+Run:
+
+```bash
+git add .
+git commit -m "Initial commit of HafaRetails project"
+git branch -M main
+git remote add origin https://github.com/BishopDavid7/HafaRetails.git
+git push -u origin main
