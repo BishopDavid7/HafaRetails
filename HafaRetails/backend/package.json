@@ -1,0 +1,16 @@
+{
+  "name": "hafaretails-backend",
+  "version": "1.0.0",
+  "description": "Backend for HafaRetails using AWS Lambda",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "deploy": "serverless deploy"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.814.0",
+    "express": "^4.17.1",
+    "serverless-http": "^2.7.0",
+    "dotenv": "^10.0.0"
+  }
+}
